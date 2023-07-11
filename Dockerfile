@@ -1,2 +1,4 @@
 FROM hug11/ar-x:latest
 EXPOSE 3000
+
+USER 10001
